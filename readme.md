@@ -10,7 +10,7 @@ The codes were developed and tested to be fully functional in a Linux environmen
 
 ## APPLICATION TOPOLOGY
 
-
+![Application Topology](exercise_2/screenshots/1_topology.png)
 
 The application topology is the crucial component in capturing and real-time processing of twitter data. A tweet-spout pulls tweets from Twitter streaming API and runs on three threads. Users can obtain their own twitter credentials for the tweet-spout by creating a twitter application at [https://apps.twitter.com](https://apps.twitter.com) . For convenience, a set of working credentials is provided. While the tweet-spout retrieves raw tweets, the two bolts parse-tweet-bolt and count-bolt processes tweets to valid words and counts the word respectively. In addition, the count-bolt also pushes and updates the data into a Postgres database. The Postgres database is initiated before each application is ran and contains only the tweets data of each individual run.
 
