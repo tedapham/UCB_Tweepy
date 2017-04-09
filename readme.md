@@ -50,6 +50,13 @@ $ sparse run
 
 Once the application is run successfully, a continuous log will be displayed such as this:
 
+![Tweet Stream](exercise_2/screenshots/Tweetstream_logging.png)
+
 Stop the process with ctrl+ c. At this point, twitter data have been tabulated in Postgres table twitterwordcount.
 
 Running finalresults.py, histogram.py, and top20.py for analyses. For example:
+![Final Resulsts](exercise_2/screenshots/finalresults_test_cases.png)
+
+and print everything
+![Fina](exercise_2/screenshots/histograms_test_cases.png)
+
