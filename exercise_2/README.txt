@@ -11,7 +11,7 @@ Whether the UCB’s community AMI is used, make sure the seven platforms highlig
 
 
 Once the repo is cloned, 
-****navigate to extweetwordcount**** 
+****NAVIGATE to extweetwordcount**** 
 subfolder inside UCB_Tweepy/exercise_2.
 
 ================================
