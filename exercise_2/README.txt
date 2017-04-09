@@ -23,7 +23,7 @@ $ sparse run
 initialize.py must be run to create tcount database and tweetwordcount table in Postgres before sparse can be run.
 
 Once the application is run successfully, a continuous log will be displayed.
-Stop the process with ctrl+ c. 
+Stop the process with ctrl+c when the desired duration is reached. 
 
 At this point, twitter data have been tabulated in Postgres table twitterwordcount.
 
