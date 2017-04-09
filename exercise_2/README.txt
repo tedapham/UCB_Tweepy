@@ -4,7 +4,7 @@
 **************************
 
 
-The codes were developed and tested to be fully functional in a Linux environment from Amazon Web Services EC2 instance of UCB’s community AMI UCB MIDS W205 EX2-FULL. The AMI provides the required technologies for the application: 1. HDFS; 2. Storm; 3. Postgres; 4. PsycoPG; 5. Tweepy; 6. Python 2; 7. Streamparse.
+The codes were developed and tested in a Linux environment from Amazon Web Services EC2 instance of UCB’s community AMI UCB MIDS W205 EX2-FULL. The AMI provides the required technologies for the application: 1. HDFS; 2. Storm; 3. Postgres; 4. PsycoPG; 5. Tweepy; 6. Python 2; 7. Streamparse.
 
 
 Whether the UCB’s community AMI is used, make sure the seven platforms highlighted in the application summary are installed and Postgres server running on the respective Linux platform. 
