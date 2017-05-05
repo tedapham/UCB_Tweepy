@@ -57,6 +57,6 @@ Stop the process with ctrl+ c. At this point, twitter data have been tabulated i
 Running finalresults.py, histogram.py, and top20.py for analyses. For example:
 ![Final Resulsts](exercise_2/screenshots/finalresults_test_cases.png)
 
-and print everything
+
 ![Fina](exercise_2/screenshots/histograms_test_cases.png)
 
